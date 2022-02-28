@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The time-troubler crept in at the window, disturbing and molesting the Church of God, by false heresies and ill opinions, sprung from his stirill braine, sowne by the devill, reapt by his wicked heart, put into the barne of his evill conscience. Discussed of betweene two loving friends, R. and L. this present yeere, 1642. Wondering at the time.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94369</idno>
+            <idno type="STC">Wing T1280</idno>
+            <idno type="STC">Thomason E107_23</idno>
+            <idno type="STC">ESTC R2109</idno>
+            <idno type="EEBO-CITATION">99869651</idno>
+            <idno type="PROQUEST">99869651</idno>
+            <idno type="VID">122030</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94369)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 122030)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The time-troubler crept in at the window, disturbing and molesting the Church of God, by false heresies and ill opinions, sprung from his stirill braine, sowne by the devill, reapt by his wicked heart, put into the barne of his evill conscience. Discussed of betweene two loving friends, R. and L. this present yeere, 1642. Wondering at the time.</title>
+                  <author>R., attributed name.</author>
+                  <author>L.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to "R".  Cf. BLC.</note>
+                  <note>Annotation on Thomason copy: "July 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:122030:1"/>
+            <pb facs="tcp:122030:1" rendition="simple:additions"/>
+            <p>THE TIME-TROVBLER Crept in at the Window, DISTVRBING AND moleſting the Church of God, by falſe Hereſies and ill opinions, ſprung from his ſtirill braine, ſowne by the Devill, reapt by his wicked heart, put into the barne of his evill Conſcience.</p>
+            <p>Diſcuſſed of betweene two loving friends, R. and L. this preſent yeere, 1642.</p>
+            <p>Wondering at the time?</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>I. R.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:122030:2"/>
+            <pb n="3" facs="tcp:122030:2"/>
+            <head>THE TIME-TROVBLER Crept in at the Window, DISTVRBING AND moleſting the Church of God, by falſe Hereſies and ill opinions, ſprung from his ſtirill braine, ſowne by the Devill, reapt by his wicked heart, put into the barne of his evill Conſcience.</head>
+            <head type="sub">Diſcuſſed of betweene two loving friends, R. and L. this preſent yeere, 1642.</head>
+            <p>Wondering at the time?</p>
+            <sp>
+               <speaker>R.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Hat is a time-troubler?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>One that runnes a whoring after his owne Inventions:</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Say not ſo; he hath a marvelous naturall reaſon, judgement, and memorie: for he cannot make you a Sermon of
+<pb n="4" facs="tcp:122030:3"/>three houres long elſe; an houre his prayer, and two houres his Sermon; although never brought up in the Vniuerſitie; and although never tooke any orders: The Apoſtles were called by Chriſt; hee is called by the Spirit (as hee will make you beleeve.)</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Then it is no matter for learning;</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>No: For he can make the people beleeve that he can diſcerne the high miſteries of the Word, without learning; as if a man can ſee without eyes: But you may tell him that there is Conſtruction and Elocution; and eſpecially Allegories, Tropo<g ref="char:EOLhyphen"/>logies, and Anagogies in the Word of God to be unfolded; for the Scripture is full of them.</p>
+            </sp>
+            <sp>
+               <speaker>L</speaker>
+               <p>Nay, but if he hath a good memorie and a bold Audacious ſpirit to blind your ignorance withall; he can deliver ſo much matter as ſhall make up the time of his Sermon although there be never a word of reaſon therein, much leſſe a ſentence or a divine note of ſaving comfort: ſo he ſtrikes, as an ignorant man at the Anvill, though it be neither ryme nor reaſon hee ſpeakes; ſo his tongue goes on, it is no matter with him.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Is it no matter for orders neither.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Yes, See the obſtinacie of <hi>Ieroboam</hi> in the 13. Chapter of the firſt booke of <hi>Kings</hi> and in the two laſt verſes, how hee made of the loweſt of the people Prieſts of the high places; and how it turned to ſinne unto the houſe of <hi>Ieroboam,</hi> even to roote it out, and deſtroy it from the face of the earth.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>It ſeemes he hath no reaſon indeed.</p>
+            </sp>
+            <pb n="5" facs="tcp:122030:3"/>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Hath he no matter neither?</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Truly but a little; he will make you beleeve he is the child of God.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Me thinks by this he ſhould be as the proud Phariſie, for hee makes long prayers like him, and will juſtifie himſelfe not to be like others: beſides he will ſay it is no matter what the wicked will ſay of him; God will avenge his quarrell. Although he hath no learning of which I formerly touched; he loves to be called <hi>Rabbi,</hi> for he will equall him<g ref="char:EOLhyphen"/>ſelfe, or rather be above learned men; for he will looke to be better reſpected and regarded by his preaching, then the reverend and learned Miniſter of the pariſh, And he loves the uppermoſt ſeate in the Synagoges; Nay inſtead of ſuffering the Miniſter to have a place in the Church with him; he would put him (if it lay in his power) quite out.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>If it be ſo then I pray of what validitie is learning; It ſeemes a man may miracolouſly be a preacher after the manner aforeſaid; <hi>Quamvis nunquam fuerit Academiae,</hi> or at all bred a ſcholar. Have I not told you enough before?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Why then; what neede a man put his ſonne to the Vniuerſitie, when he can without learning his Syllogiſmes to come to this promotion. A man neede not be at ſo an unneceſſarie a charge, that is beſt and cheapeſt that can be attained unto with leaſt charge.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>As farre as I ſee by this, a man may goe to the Vniuerſitie and there be at a great deale of charge, in commencing; and when hee comes home to be little the neere?</p>
+            </sp>
+            <pb n="6" facs="tcp:122030:4"/>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Why then; What ſhould one go to the Vniverſitie at all.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Not except you can pleaſe men when you come home.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>This is pretty indeed, would I had knowne this ſooner: then might I have ſaved a great deale of charges in ſeeking to attaine unto learning.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I thought you had knowne that the Apoſtles had no learning; yet they came to be fiſhers of men.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Ay, but Chriſt called them miraculouſly. And do you not know the Browniſts hold that they are miraculouſly called by the ſpirit; do you beleeve that.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Yes; if they can with <hi>Peter</hi> walke on the Sea, or have the gift of knowledge as a learned Scholar hath. And doe you not know that if they have a blinde devotion that it is no matter for learning.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>You now talke ſtrangly, as if learning were nothing worth: learning it is the gift of God; and uſefull to his glory; and they that ſpeake againſt learning are like wormes in bookes, that eate out the letter.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>What is meant by learning.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Vnderſtanding and knowledge which, was <hi>Solomons</hi> requeſt of the Lord; and he ſo pleaſed the Lord in asking ſuch a requeſt that he gave him all earthly bleſſings beſides. Can a Mechanicall trades man without tooles worke in his trade; no more can a man devide, or lay open the Word without learning: can the end be attained unto without the meanes; No, except God pleaſe to have it other<g ref="char:EOLhyphen"/>wiſe.</p>
+            </sp>
+            <pb n="7" facs="tcp:122030:4"/>
+            <sp>
+               <speaker>R.</speaker>
+               <p>But all this while what is meant by their preaching in houſes alſo.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>They take it from the Apoſtles.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>The Apoſtles were conſtrained unto it indeed be<g ref="char:EOLhyphen"/>cauſe they were not ſuffered to preach at the Temple of <hi>Ieruſalem</hi> as you may reade in <hi>Euſebius</hi> in his 4. booke concerning the Hiſtorie of the Church. It is not ſo with them; for they may come to Church oftner then they doe.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>What is the reaſon that they will not take the Communion unleſſe it be ſitting or ſtanding, they are alſo blinded in this, becauſe in their ſaucineſſe out of pride they wil ſeeme to be hail-fellow wel met with our Saviour, may I reverently ſpeake it; put caſe they were to receive any thing of an earthly King, would they not kneele, much more to the heavenly King.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>It may be they can lay you downe ſome reaſon.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>What reaſon? Can one be two humble? It's true the Apoſtles ſat downe with our Saviour at Supper and heard the charge given, <hi>Is a charge or command in that force whileſt it is in giving as it is afterward being ginen, truly no.</hi> The Lord ſhewed his love that they ſhould be neere him; ſhall not we ſhew our thankfulneſſe in humilitie towards him. Yes; muſt we not then kneele in the recei<g ref="char:EOLhyphen"/>ving of the Sacrament? Yes; What doth the Lord re<g ref="char:EOLhyphen"/>quire of thee, ſurely to do juſtly, and to love mercy, and to humble thy ſelfe, to walke with thy God, <hi>Micah.</hi> 6 8. Some other bad opinions they hold. They cannot abide the Croſſe. No, by the Croſſe may be meant Chriſt ſufferings for us, to remember what great love he had towards us, to lay down his life for us, for our redempti<g ref="char:EOLhyphen"/>on. Nay, another bad opinion they have of the bowing
+<pb n="8" facs="tcp:122030:5"/>of the knee at the name of Ieſus, they cannot abide; al<g ref="char:EOLhyphen"/>though there is for it <hi>Scriptum eſt:</hi> As if God made not the knee aſwell as the heart, <hi>As externall worſhip without internall, is hypocriſie; ſo internall worſhip without externall, is incivilitie.</hi> If the times revolt do not thou revolt: eſteem of the Word, and prize every thing according to his worth: and be not lead away, for it is through pride, and ſelfe conceit, and idleneſſe that they are carried away, Serve God and keepe his Commandements, and love his name, and be loving to thy neighbor and it ſhall goe well with thee: howſoever the world totters. One thing more I have to ſay before I conclude. They can<g ref="char:EOLhyphen"/>not indure to ſay the Lords prayer, although his Diſci<g ref="char:EOLhyphen"/>ples were by him taught it, <hi>Luke</hi> 11.2. are they not then ſelfe-conceited as I ſaid before. They hold with no ſet forme of prayer: Can a man come too well prepared before the Lord: No, If wee are in hope at any time, when we ſtand in neede to obtaine any curteſie from any great man that we thinke can pleaſure us, O how well prepared will we come with ſome petition ador<g ref="char:EOLhyphen"/>ned with moſt eloquent words, drawne by ſome skilful Artiſt, for feare wee ſhould not obtaine our requeſt. Much more then ought wee to come prepared to our Maker and not to come in a preſumptuous way hand over head. It is written alſo when yee pray, uſe no vaine repetitions as the Heathen: for they thinke to be heard for their much babling, <hi>Matt.</hi> 6.7. We ſinne therefore in our very prayers, and therefore wee ſhould the rather deſire to ſay that prayer whereby we might not ſinne. The Lord keepe us from ſinne and ſo I reſt.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
